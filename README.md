@@ -4,8 +4,10 @@ While you can create pure data-only containers, using them with
 docker-compose is not trivial. The docker-compose requires that the
 container has some executable in it.
 
-This image contains a 20k statically linked binary `true` that just
-exists immediattly with status 0.
+This image contains a statically linked binary `true` that just exists
+immediattly with status 0.
+
+The image size is 20.1kB.
 
 
 # License
