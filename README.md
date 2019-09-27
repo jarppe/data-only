@@ -1,4 +1,4 @@
-# Minimal docker image for data-only containers
+# Minimal docker image for docker-compose compatible data-only containers
 
 While you can create pure data-only containers, using them with
 docker-compose is not trivial. The docker-compose requires that the
